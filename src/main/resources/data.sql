@@ -1,0 +1,5 @@
+INSERT into user values(100,sysdate(), 'AB')
+INSERT into user values(102,sysdate(), 'CD')
+INSERT into user values(103,sysdate(), 'EF')
+insert into post values(1100,'My first post',100)
+insert into post values(1101,'My second post',100)
